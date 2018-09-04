@@ -18,7 +18,17 @@ You should have downloaded Expo and learned to set up the basic "Hello World" ex
 
 3. [Create your first app]
 
+
+## Additional Resources
+React Native's code is a combination of HTML, CSS and JavaScript (version ES6). It is recommended you study each of these languages independently. Not only will they help you understand React Native in greater detail, they will also better your understanding of web development and UI in general. To that end, here are a few resources:
+
+- [Learn JavaScript]
+- [Learn HTML & CSS]
+- [Reference guides and more tutorials]
     
 [Install Expo]: https://docs.expo.io/versions/latest/introduction/installation.html
 [Install Node.js]: https://nodejs.org/en/
 [Create your first app]: https://docs.expo.io/versions/latest/guides/up-and-running.html
+[Learn JavaScript]: https://www.codecademy.com/learn/introduction-to-javascript
+[Learn HTML & CSS]: https://www.codecademy.com/catalog/language/html-css
+[Reference guides and more tutorials]: https://www.w3schools.com/
