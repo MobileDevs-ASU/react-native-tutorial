@@ -1,0 +1,7 @@
+#!/bin/bash
+
+git stash
+git checkout 6ccc57385680da9c8f9efc5cc7e6a73cffe65ca2
+
+echo
+echo "COMMAND TO STOP VIEWING PART 3: git checkout master"
